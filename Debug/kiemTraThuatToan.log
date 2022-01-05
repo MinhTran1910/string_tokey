@@ -1,0 +1,5 @@
+﻿  kiemTraThuatToan.cpp
+C:\Users\AdminPC\Desktop\Do An CTDL\kiemTraThuatToan\kiemTraThuatToan.cpp(63,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\AdminPC\Desktop\Do An CTDL\kiemTraThuatToan\kiemTraThuatToan.cpp(69,6): warning C4101: 'm': unreferenced local variable
+C:\Users\AdminPC\Desktop\Do An CTDL\kiemTraThuatToan\kiemTraThuatToan.cpp(69,9): warning C4101: 'n': unreferenced local variable
+  kiemTraThuatToan.vcxproj -> C:\Users\AdminPC\Desktop\Do An CTDL\kiemTraThuatToan\Debug\kiemTraThuatToan.exe
